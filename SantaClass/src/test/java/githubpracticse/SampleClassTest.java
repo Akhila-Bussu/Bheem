@@ -2,7 +2,7 @@ package githubpracticse;
 
 import org.testng.annotations.Test;
 
-public class SampleClass {
+public class SampleClassTest {
 
 	@Test
 	public void smaple() {
